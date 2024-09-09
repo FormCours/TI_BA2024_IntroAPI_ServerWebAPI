@@ -1,0 +1,58 @@
+{
+  "movie": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "duration": 148,
+      "yearRelease": 2010,
+      "lang": "en",
+      "genreId": 1
+    },
+    {
+      "id": 2,
+      "title": "Le Fabuleux Destin d'Amélie Poulain",
+      "duration": 122,
+      "yearRelease": 2001,
+      "lang": "fr",
+      "genreId": 2
+    },
+    {
+      "id": 3,
+      "title": "Parasite",
+      "duration": 132,
+      "yearRelease": 2019,
+      "lang": "ko",
+      "genreId": 3
+    },
+    {
+      "title": "The Godfather",
+      "duration": 175,
+      "yearRelease": 1972,
+      "lang": "en",
+      "genreId": 4,
+      "id": 4
+    }
+  ],
+  "genre": [
+    {
+      "id": 1,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 2,
+      "name": "Romance"
+    },
+    {
+      "id": 3,
+      "name": "Thriller"
+    },
+    {
+      "id": 4,
+      "name": "Crime"
+    },
+    {
+      "id": 5,
+      "name": "Animation"
+    }
+  ]
+}
